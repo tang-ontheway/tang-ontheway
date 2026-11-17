@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hi there, I'm tang-ontheway
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+LLM+Agent+Engineer;Active+Open-Source+Contributor;Passionate+about+autonomous+systems&center=true&width=520&height=50&color=2563EB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+LLM+Agent+Engineer;Active+Open-Source+Contributor;Building+reliable+autonomous+systems&center=true&width=520&height=50&color=2563EB" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/tang-ontheway?label=Follow&style=social" alt="GitHub Followers" />
@@ -48,26 +48,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tang-ontheway&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="tang-ontheway GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tang-ontheway&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://stats.justsong.cn/api/github?username=tang-ontheway" alt="tang-ontheway GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tang-ontheway&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tang-ontheway&theme=onedark&no-frame=false&margin-w=4" alt="GitHub Trophy" />
-</p>
-
----
-
-### 🐍 Contribution Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tang-ontheway/tang-ontheway/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tang-ontheway/tang-ontheway/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tang-ontheway/tang-ontheway/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
